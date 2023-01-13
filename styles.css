@@ -53,4 +53,17 @@ img {
     list-style-type: circle;
 }
 
+#acknowledgement {
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
 
+#tribute-link {
+    color: rgb(145, 146, 98);
+}
+#more-info {
+    text-align: center;
+    font-size: 1.7em;
+    background-color: #ebeac8;
+}
